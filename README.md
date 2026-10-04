@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hello! I'm KOZU! An aspiring game developer / game programmer that's currently still exploring around game development. 
-I'm mostly using Godot, but im looking forward to learn and explore more of it!
+I'm mostly using Godot, but im looking forward to learn and explore around more!
 
 <!--
 **KOZU19/KOZU19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
